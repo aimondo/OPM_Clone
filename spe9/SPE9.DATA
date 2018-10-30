@@ -196,7 +196,7 @@ PVDG
 -- Column 3: gas viscosity (cP)
 
 -- Using values from table 2 in Killough's paper:
-14.7	210 	0.0125
+14.7	1000 	0.0125
 400    	  5.8979	0.0130
 800    	  2.9493	0.0135
 1200	  1.9594	0.0140
